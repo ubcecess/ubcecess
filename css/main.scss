@@ -1,0 +1,100 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+// Our variables
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #ECECEC;
+$brand-color:      #2EB6DD;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+// Minima also includes a mixin for defining media queries.
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// Import partials from the `minima` theme.
+@import "minima";
+
+.site-header {
+	padding: 30px 0;
+	background: url('../images/bg.png');
+	background-size: 173px 173px;
+	box-shadow: 0 0 5px #fff;	
+	box-shadow: inset 0 -20px 15px -15px #000000;
+}
+
+main.page-content {
+	box-shadow: inset 0 20px 15px -15px white;
+}
+a.page-link {
+	background: $background-color;
+	color: #222;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 5px rgba(0, 0, 0, 0.5);
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+	padding: 5px 10px;
+	border-radius: 4px;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+	::hover {
+		text-decoration: none;
+		background: black;
+	}
+}
+
+.page-link:hover {
+	text-decoration: none;
+}
+
+.wrapper {
+	max-width: calc(900px - (30px * 2));
+}
+
+.logo-wrapper {
+	width: 450px;
+	display: inline-block;
+}
+
+.logo img{
+	height: 50px;
+	padding:0 5px;
+}
+
+.logo-2 {
+	height: 60px;
+	border-left: solid 2px rgba(255, 255, 255, 0.28);
+}
+
+body {
+	background: url('/images/greybg.png');
+	background-size: 200px 200px;
+}
+
+.site-footer {
+	background: url('/images/bg.png');
+	background-size: 173px;
+	box-shadow: inset 0 20px 15px -15px #000000;
+}

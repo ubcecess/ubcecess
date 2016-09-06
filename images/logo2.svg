@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1883px" height="471px" viewBox="0 0 1883 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>UBC ELECTRICAL </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="MuseoSans-500, Museo Sans" font-size="97" font-weight="normal" line-spacing="119">
+            <tspan x="74" y="143" fill="#2EB6DD">UBC ELECTRICAL </tspan>
+            <tspan x="74" y="262" fill="#2EB6DD">&amp; COMPUTER ENGINEERING</tspan>
+            <tspan x="1381.754" y="262" fill="#FFFFFF"></tspan>
+            <tspan x="74" y="381" fill="#FFFFFF">UNDERGRADUATE STUDENT SOCIETY</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="42" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+        <g id="UBC-ELECTRICAL-" fill="#2EB6DD">
+            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+    </g>
+</svg>
