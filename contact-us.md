@@ -8,19 +8,19 @@ Do you have a question? Complaint? Suggestion? Or perhaps a compliment on a job 
 
 Fill out the form below to send us your anonymous feedback about our events, council members, this website or anything else that you want the student council to hear!
 
-Also please help report any bugs, typos or silly mistakes <img src="https://s.w.org/images/core/emoji/2/svg/1f642.svg" width="15px" height="15px">
+Also please help report any bugs, typos or silly mistakes **SMILEY EMOJI IMG?**
 
-<form>
-	Name(Optional)<br>
-	<input type="text" name="name"><br>
-	Email(Optional, if you'd like a reply)<br>
-	<input type="text" name="email"><br>
-	Comment(required)<br>
-	<textarea name="comment" rows="12" cols="55"></textarea><br>
-	<input type="submit">
-</form>
+Name(Optional)
 
-<br>
+**FORM NEEDED HERE**
+
+Email(Optional, if you'd like a reply)
+
+**FORM NEEDED HERE**
+
+Comment(required)
+
+**FORM NEEDED HERE**
 
 #### CONTACT US
 All ECESS members can be reached at: 
