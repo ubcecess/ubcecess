@@ -9,7 +9,7 @@ Are your midterms or finals coming up? Check out these exam packages below for e
 | **Year** | **Courses** | **Review Packages** |
 | :--- | :--- | :--- |
 | 200 Level | CPEN 211 | [Midterm Review Package (2015)](https://goo.gl/AVfYBn) |
-||| [*UPDATED V2.0* Final Exam Review Package (2015)](https://goo.gl/o91XJ8) |
+||| [Final Review Package (2015)](https://goo.gl/o91XJ8) |
 || --- | --- |
 || CPEN 221 | [Midterm 1 Review Package (2015)](https://goo.gl/OQjCjU) |
 || --- | --- |
@@ -19,12 +19,12 @@ Are your midterms or finals coming up? Check out these exam packages below for e
 || --- | --- |
 || ELEC 202 | [Review Package (2014)](https://goo.gl/w3xs8G) |
 || --- | --- |
-|| ELEC 221 | [Final Exam Review Package (2014)](https://goo.gl/eEvDWc) |
+|| ELEC 221 | [Final Review Package (2014)](https://goo.gl/eEvDWc) |
 || --- | --- |
 || MATH 253 | [Review Package (2014)](https://goo.gl/dzQoA4) |
 | --- | --- | --- |
 | 300 Level | CPEN 311 | [Midterm Review Package (2015)](https://goo.gl/I3WrBL) |
-||| [Final Exam Review Package (2015)](https://goo.gl/DT4LGi) |
+||| [Final Review Package (2015)](https://goo.gl/DT4LGi) |
 || --- | --- |
 || ELEC 311 | [Review Package (2013)](https://goo.gl/Dsx0wy) |
 ||| [Review Package (2014)](https://goo.gl/wp7CD0) |
