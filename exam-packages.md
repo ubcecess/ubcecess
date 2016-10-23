@@ -21,6 +21,8 @@ Are your midterms or finals coming up? Check out these exam packages below for e
 || --- | --- |
 || ELEC 221 | [Final Review Package (2014)](https://goo.gl/eEvDWc) |
 || --- | --- |
+|| MATH 220 | [Midterm Review Package (2015)](https://goo.gl/CmJG8q) |
+|| --- | --- |
 || MATH 253 | [Review Package (2014)](https://goo.gl/dzQoA4) |
 | --- | --- | --- |
 | 300 Level | CPEN 311 | [Midterm Review Package (2015)](https://goo.gl/I3WrBL) |
